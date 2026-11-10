@@ -1,0 +1,2 @@
+# FinScope-Technologies
+Finanace Analysis
