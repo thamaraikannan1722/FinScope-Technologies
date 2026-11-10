@@ -102,7 +102,8 @@ The dashboard helps identify:
 
 
 ### Transaction Analysis
-<!-- Add your Transaction Dashboard screenshot here -->
+
+![DASHBOARD](https://github.com/thamaraikannan1722/FinScope-Technologies/blob/7190dadbda6385e9d13ba7545d0016d95bab534b/POWER%20BI/finscope1.png)
 
 ## 📁 Project Structure
 
