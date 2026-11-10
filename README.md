@@ -23,9 +23,6 @@ The project provides an interactive dashboard that helps business stakeholders m
 - **Microsoft Power BI** – Dashboard development and data visualization.
 - **Power Query** – Data cleaning and transformation.
 - **DAX** – Calculations, KPIs, and dynamic measures.
-
-![DASHBOARD](https://github.com/thamaraikannan1722/FinScope-Technologies/blob/3db2af19d52a88577b1fe43ffbbb4fa7ee073b06/POWER%20BI/finscope%20image.png)
-![DASHBOARD]()
 ## 📊 Dashboard Features
 
 ### 1. Overview Analysis
@@ -99,7 +96,10 @@ The dashboard helps identify:
 ## 📷 Dashboard Preview
 
 ### Overview Analysis
-<!-- Add your Overview Dashboard screenshot here -->
+
+
+![DASHBOARD](https://github.com/thamaraikannan1722/FinScope-Technologies/blob/3db2af19d52a88577b1fe43ffbbb4fa7ee073b06/POWER%20BI/finscope%20image.png)
+
 
 ### Transaction Analysis
 <!-- Add your Transaction Dashboard screenshot here -->
